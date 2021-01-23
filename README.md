@@ -16,13 +16,13 @@ b — длина ключа в байтах.
 
 ![](https://github.com/aakinina/RC6-new-/blob/main/rc6_encryption.PNG)
 
-## Установка:
+### Установка
 
-## Результаты
+### Результаты
 
 ![](https://github.com/aakinina/RC6-new-/blob/main/results.PNG)
 
-## Источники
+### Источники
 
 1) http://people.csail.mit.edu/rivest/pubs/RRSY98.pdf
 2) Сергей Петрович Панасенко "Алгоритмы шифрования. Специальный справочник", 2015
