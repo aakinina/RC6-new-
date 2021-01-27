@@ -16,6 +16,12 @@ b — длина ключа в байтах.
 
 ![](https://github.com/aakinina/RC6-new-/blob/main/rc6_encryption.PNG)
 
+### Сборка
+
+cmake CMakeLists.txt
+make
+./RC6
+
 ### Результаты
 
 ![](https://github.com/aakinina/RC6-new-/blob/main/results.PNG)
