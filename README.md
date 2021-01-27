@@ -16,8 +16,6 @@ b — длина ключа в байтах.
 
 ![](https://github.com/aakinina/RC6-new-/blob/main/rc6_encryption.PNG)
 
-### Установка
-
 ### Результаты
 
 ![](https://github.com/aakinina/RC6-new-/blob/main/results.PNG)
